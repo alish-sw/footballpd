@@ -1,0 +1,6 @@
+// T are type,P are parameters
+abstract class UseCase<T,P>{
+  Future<T>call(P params);
+}
+
+class NoParams{}

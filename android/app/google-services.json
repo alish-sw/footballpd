@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881571380570",
+    "project_id": "my-fp-pd",
+    "storage_bucket": "my-fp-pd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881571380570:android:5281c9e3d92900c83a0763",
+        "android_client_info": {
+          "package_name": "com.tordodigi.footballpd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fK8wLgL_tG_OTzqXGuqfQx36Ope7fzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
